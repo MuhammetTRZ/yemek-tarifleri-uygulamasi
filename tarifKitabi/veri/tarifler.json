@@ -1,0 +1,542 @@
+[
+    {
+        "id":"PamukPoğaça",
+        "tarifName":"PamukPoğaça",
+        "foto":"resimler/PamukPoğaça.jpg",
+        "malzemeler":[
+        "2 yumurta akı",
+        "1 su bardağı ılık süt",
+        "1 su bardağı sıvı yağ",
+        "1 su bardağı ılık su",
+        "1 paket instant maya",
+        "4 yemek kaşığı şeker",
+        "5.6-6 su bardağı un",
+        "1 yemek kaşığı tuz"
+    ],
+        "arası için":["kaşar peyniri"],
+        "üzeri için":["yumurta sarısı,sıvı yağ"]
+    },
+    {
+        "id":"fellahKöftesi",
+        "tarifName":"fellahKöftesi",
+        "foto":"resimler/fellah köftesi tarifi.jpg",
+        "malzemeler":[
+            "2 su bardağı köftelik bulgur",
+            "2 su bardağı sıcak su",
+            "1 su bardağı irmik",
+            "3 yemek kaşığı un",
+            "1 yemek kaşığı domates salçası",
+            "1 yemek kaşığı biber salçası",
+            "1 tatlı kaşığı tuz,yarım su bardağı sıcak su",
+            "1 adet yumurta,1 tatlı kaşığı kimyon"
+            ],
+        "haşlamak için":[
+            "su",
+            "1 çay kaşığı limon tuzu",
+            "1 çay kaşığı tuz"
+        ],
+        "sos için":[
+            "1.5 çay bardağı zeytinyağı",
+            "5-6 diş sarımsak",
+            "2 yemek kaşığı biber salçası",
+            "4 adet domates rendesi,tuz,maydanoz"
+        ]
+    },
+    {
+        "id":"elmalıKurabiye",
+        "tarifName":"Elmalı Kurabiye",
+        "foto":"resimler/ELMALI KURABİYE.jpg",
+        "malzemeler":[
+            "3 adet elma",
+            "1 küçük çay bardağı şeker",
+            "1 tatlı kaşığı tarçın",
+            "Yarım su bardağı ceviz"
+        ],
+        "Hamuru için:":[
+            "250g oda ısısında tereyağı",
+            "1 yemek kaşığı yoğurt",
+            "Limon kabuğu rendesi",
+            "1 kahve fincanı pudra şekeri",
+            "1 çay kaşığı kabartma tozu",
+            "3 su bardağı un"
+        ],
+        "Üzeri İçin:":["Pudra Şekeri"]
+    },
+    {
+        "id":"KakaoluÇatlakKurabiye",
+        "tarifName":"Kakaolu Çatlak Kurabiye",
+        "foto":"resimler/Kakaolu Çatlak Kurabiye.jpg",
+        "malzemeler":[
+            "2 adet yumurta",
+            "1 su bardağı toz şeker",
+            "Yarım çay bardağı sıvı yağ (60 ml)",
+            "4 tepeleme yemek kaşığı kakao",
+            "1 paket vanilya",
+            "1 çay kaşığı kabartma tozu",
+            "1 su bardağı + 1 yemek kaşığı un"
+        ],
+        "Bulamak İçin":["Pudra Şekeri"]
+    },
+    {
+        "id":"pankek",
+        "tarifName":"Pankek",
+        "foto":"resimler/pankek.jpg",
+        "malzemeler":[
+            "1 adet yumurta",
+            "1/2 su bardağı süt",
+            "1 yemek kaşığı toz şeker",
+            "1 tutam tuz",
+            "1 yemek kaşığı sıvı yağ"
+        ]
+    },
+    {
+        "id":"limonluKurabiye",
+        "tarifName":"limonlu Kurabiye",
+        "foto":"resimler/limonluKurabiye.jpg",
+        "malzemeler":[
+            "2 limon kabuğunun rendesi",
+            "Yarım su bardağı toz şeker (85g)",
+            "2 adet yumurta (orta boy)",
+            "4 yemek kaşığı limon suyu (30ml)",
+            "200g un (1 su bardağı + 1 su bardağından 1 parmak eksik un)",
+            "1 çay kaşığı kabartma tozu",
+            "Br çimdik tuz",
+            "100g tereyağı (eritilmiş ve soğutulmuş)"
+        ],
+        "Bulamak İçin":[
+            "Pudra Şekeri",
+            "Toz Şeker"
+        ]
+    },
+    {
+        "id":"fındıkEzmesi",
+        "tarifName":"fındıkEzmesi",
+        "foto":"resimler/fındıkEzmesi.jpg",
+        "malzemeler":[
+            "1 su bardağı fındık",
+            "Yarım çay bardağı süt",
+            "2 yemek kaşığı bal",
+            "2 yemek kaşığı tahin"
+        ]
+    },
+    {
+        "id":"Kalburabastı",
+        "tarifName":"Kalburabastı",
+        "foto":"resimler/Kalburabastı.jpg",
+        "Şerbeti İçin":[
+            "3 su bardağı şeker",
+            "3 su bardağı su",
+            "Çeyrek limon suyu"
+        ],
+        "malzemseler":[
+            "1 adet yumurta",
+            "1 çay bardağı yoğurt",
+            "150 gr tereyağı",
+            "1 çay bardağı sıvı yağ",
+            "Yarım su bardağı irmik",
+            "1 paket vanilya",
+            "1 çay kaşığı karbonat",
+            "1 tatlı kaşığı kabartma tozu",
+            "3 su bardağı un",
+            "1 su bardağı ceviz"
+        ],
+        "Not":["Kullanılan su bardağı ölçüsü 200 ml'dir."]
+    },
+    {
+        "id":"TarçınlıRuloÇörek",
+        "tarifName":"Tarçınlı Rulo Çörek",
+        "foto":"resimler/TarçınlıRuloÇörek.jpg",
+        "Hamuru için:":[
+            "½ su bardağı ılık süt",
+            "2,5 çay kaşığı kuru maya",
+            "2 yemek kaşığı toz şeker",
+            "3 su bardağı un",
+            "100 gr tereyağı – soğuk, küp doğranmış",
+            "2 adet yumurta",
+            "2 tutam tuz",
+            "¼ su bardağı un – hamuru yoğurmak için"
+        ],
+        "arası için":[
+            "40 – 50 gr tereyağı – oda sıcaklığında",
+            "½ su bardağı esmer şeker",
+            "¼ su bardağı toz tarçın"
+        ],
+        "Tabanı İçin":["Deniz tuzu"],
+        "Frosting İçin":[
+            "1 tepeleme yemek kaşığı labne peyniri – 50 gr",
+            "2 yemek kaşığı tereyağı – 50 gr – oda sıcaklığında",
+            "1 su bardağı pudra şekeri",
+            "½ limonun suyu"
+        ]
+    },
+    {
+        "id":"ruloPasta",
+        "tarifName":"Rulo Pasta",
+        "foto":"resimler/rulo-pasta-tarifi-10.webp",
+        "Kreması İçin":[
+            "500 ml süt",
+            "4 yemek kaşığı şeker (65g)",
+            "1 yemek kaşığı nişasta (15g)",
+            "2,5 yemek kaşığı un (50g)",
+            "1 paket vanilya",
+            "1 yemek kaşığı tereyağı"
+        ],
+        "Keki İçin":[
+            "3 adet yumurta",
+            "1 su bardağından biraz eksik şeker (120g)",
+            "1 su bardağı un (110g)",
+            "1 paket kabartma tozu",
+            "1 paket vanilya"
+        ],
+        "Arası İçin":[
+            "Muz :)"
+        ],
+        "Üzeri İçin":[
+            "1 poşet krem şanti",
+            "150 ml soğuk süt"
+        ]
+    },
+    {
+        "id":"çilekliPasta",
+        "tarifName":"çilekli Pasta",
+        "foto":"resimler/çilekliPasta.jpg",
+        "malzemeler":[
+            "4 yumurta (Large - büyük boy)",
+            "6 yemek kaşığı dolusu toz şeker",
+            "1 su bardağından 1 parmak eksik un",
+            "3 yemek kaşığı nişasta (silmeye yakın olsun)",
+            "3 yemek kaşığı kaynar su",
+            "1 çay kaşığı hamur kabartma tozu",
+            "1 paket şekerli vanilin",
+            "60 gram beyaz çikolata",
+            "2 poşet toz krem şanti",
+            "300 ml süt",
+            "Çilek",
+            "Frambuaz",
+            "Beyaz damla çikolata"
+        ]
+    },
+    {
+        "id":"Brownie",
+        "tarifName":"Brownie",
+        "foto":"resimler/Brownie.jpg",
+        "malzemeler":[
+            "150 gram tereyağı",
+            "260 gram bitter çikolata",
+            "3 yumurta",
+            "1 su bardağı toz şeker",
+            "1 su bardağı un",
+            "1 paket vanilya",
+            "1.5 yemek kaşığı kakao"
+        ]
+    },
+    {
+        "id":"zencefilliKurabiye",
+        "tarifName":"Zencefilli Kurabiye",
+        "foto":"resimler/zencefilliKurabiye.jpg",
+        "malzemeler":[
+            "90 gr tereyağı (oda sıcaklığında)",
+            "1 su bardağı toz şeker",
+            "1 adet yumurta",
+            "1 yemek kaşığı su",
+            "¼ su bardağı pekmez",
+            "3 su bardağı un",
+            "1 tatlı kaşığı karbonat",
+            "2 tatlı kaşığı toz zencefil",
+            "1 çay kaşığı tarçın",
+            "1 tutam tuz"
+        ]
+    },
+    {
+        "id":"tarçınlıZencefilliKurabiye",
+        "tarifName":"tarçınlı Zencefilli Kurabiye",
+        "foto":"resimler/tarçınlıZencefilliKurabiye.jpg",
+        "malzemeler":[
+            "100 gram tereyağı veya margarin",
+            "1 yumurta",
+            "1 su bardağı esmer şeker",
+            "1 çay kaşığı tarçın",
+            "3 çay kaşığı zencefil",
+            "2,5 su bardağı un",
+            "1 çay kaşığı kabartma tozu"
+        ]
+    },
+    {
+        "id":"pizza",
+        "tarifName":"pizza",
+        "foto":"resimler/pizza.jpg",
+        "malzemeler":[
+            "500 gr pizza unu",
+            "350 ml ılık su",
+            "7 gr instant maya",
+            "1 tutam şeker",
+            "1 tatlı kaşığı tuz"
+        ],
+        "Pişirme":[
+            "220°C fanlı ayarda, en alt rafta 15-20 dakika kontrollü pişirin."
+        ]
+    },
+    {
+        "id":"LimonluKek",
+        "tarifName":"LimonluKek",
+        "foto":"resimler/LimonluKek.jpg",
+        "malzemeler":[
+            "1 su bardağı un + 1 su bardağından iki parmak eksik un",
+            "1 su bardağı şeker",
+            "4 orta boy yumurta",
+            "150 gr tereyağı (oda sıcaklığında)",
+            "1 su bardağı maden suyu",
+            "1 paket kabartma tozu",
+            "1 paket vanilya",
+            "1 limon kabuğu rendesi",
+            "1 limonun suyu"
+        ]
+    },
+    {
+        "id":"brownie2",
+        "tarifName":"Brownie2",
+        "foto":"resimler/brownie2.jpg",
+        "malzemeler":[
+            "1 su bardağı un",
+            "4 orta boy yumurta",
+            "1 su bardağı toz şeker",
+            "150 gram tereyağı",
+            "250 gram bitter çikolata",
+            "1 paket vanilya"
+        ]
+    },
+    {
+        "id":"limonluKurabiye2",
+        "tarifName":"limonlu Kurabiye2",
+        "foto":"resimler/limonluKurabiye2.jpg",
+        "malzemeler":[
+            "150 gram tereyağı",
+            "Yarım su bardağı + 2 yemek kaşığı şeker",
+            "1 adet yumurta",
+            "1 çay kaşığı karbonat",
+            "1 yemek kaşığı nişasta",
+            "1 limon kabuğu rendesi",
+            "Yarım limon suyu",
+            "1 paket vanilya",
+            "1 çay kaşığı ucu zerdeçal veya sarı gıda boyası",
+            "2 su bardağı civarı un"
+        ],
+        "Dolgusu İçin":[
+            "180 gram labne",
+            "30 gram pudra şekeri",
+            "1 limon kabuğu rendesi"
+        ]
+    },
+    {
+        "id":"starbucksKurabiye",
+        "tarifName":"starbucks Kurabiye",
+        "foto":"resimler/starbucksKurabiye.jpg",
+        "Ölçüler":[
+            "Su bardağı: 200 ml",
+            "Çay bardağı: 100 ml"
+        ],
+        "malzemeler":[
+            "150 gr tereyağı veya margarin",
+            "2 yumurta sarısı",
+            "1 çay bardağı pudra şekeri",
+            "1 yemek kaşığı su",
+            "1 çay kaşığı tarçın",
+            "1 çay bardağı damla çikolata",
+            "1 su bardağına yakın dövülmüş ceviz",
+            "Yarım paket vanilya",
+            "Yarım paket kabartma tozu",
+            "Aldığı kadar un (yaklaşık 2 su bardağı, kontrollü ekleyin)"
+        ]
+    },
+    {
+        "id":"VişneliTurta",
+        "tarifName":"Vişneli Turta",
+        "foto":"resimler/VişneliTurta.jpg",
+        "sos için":[
+            "3 su bardağı donmuş vişne (veya donuk orman meyvesi)",
+            "3 yemek kaşığı nişasta",
+            "1 su bardağı su",
+            "1 su bardağı toz şeker",
+            "1 tatlı kaşığı tereyağı"
+        ],
+        "Hamuru için":[
+            "150 gr tereyağı (oda sıcaklığında)",
+            "1 su bardağı toz şeker",
+            "1 yumurta",
+            "1 paket vanilin",
+            "2,5 - 3 su bardağı un",
+            "Gerekirse 2-3 yemek kaşığı sıvı yağ (hamur toparlanmazsa)"
+        ]
+    },
+    {
+        "id":"ElmalıTurta",
+        "tarifName":"Elmalı Turta",
+        "foto":"resimler/ElmalıTurta.jpg",
+        "İç Harcı İçin":[
+            "4 adet elma (soyulmuş ve küp doğranmış)",
+            "2 yemek kaşığı toz şeker",
+            "1 tatlı kaşığı tarçın"
+        ],
+        "Hamuru için":[
+            "1 yumurta",
+            "125 g tereyağı (oda sıcaklığında)",
+            "Yarım su bardağı toz şeker",
+            "Yarım paket kabartma tozu",
+            "2 su bardağı un"
+        ],
+        "Üzeri İçin":["Pudra Şekeri"],
+        "Kalıp Ölçüsü":["24 cm"]
+    },
+    {
+        "id":"SüngerKek",
+        "tarifName":"Sünger Kek",
+        "foto":"resimler/SüngerKek.jpg",
+        "malzemeler":[
+            "4 yumurta",
+            "1 su bardağından bir parmak eksik toz şeker",
+            "1 çay bardağı ılık su (çok kaynar değil)",
+            "1 çay bardağı sıvı yağ",
+            "1,5 su bardağı un",
+            "Yarım su bardağı mısır nişastası",
+            "1 paket vanilya",
+            "1 paket kabartma tozu",
+            "1 çay kaşığının ucuyla tarçın",
+            "Portakal kabuğu rendesi",
+            "1,5 yemek kaşığı kakao"
+        ]
+    },
+    {
+        "id":"kıbrısTatlısı",
+        "tarifName":"kıbrıs Tatlısı",
+        "foto":"resimler/kıbrısTatlısı.jpg",
+        "Şerbeti İçin":[
+            "2 su bardağı toz şeker",
+            "2 su bardağı su",
+            "1-2 damla limon suyu"
+        ],
+        "Keki İçin":[
+            "3 adet yumurta",
+            "½ su bardağı toz şeker",
+            "½ su bardağı ayçiçek yağı",
+            "1 su bardağı galeta unu",
+            "1 su bardağı toz hindistan cevizi",
+            "1 paket vanilya",
+            "1 paket kabartma tozu",
+            "1 su bardağı kıyılmış ceviz"
+        ],
+        "Kreması İçin":[
+            "2,5 su bardağı süt",
+            "2 yemek kaşığı buğday nişastası",
+            "1 yemek kaşığı un",
+            "½ su bardağı toz şeker",
+            "1 paket vanilya",
+            "200 gram soğuk krema (çırpılmış)"
+        ]
+    },
+    {
+        "id":"pastacıKremasiYapimi",
+        "tarifName":"Pastacı Kremasi",
+        "foto":"resimler/pastacıKremasiYapimi.webp",
+        "malzemeler":[
+            "2,5 su bardağı süt",
+            "4 yemek kaşığı şeker",
+            "2 yemek kaşığı un",
+            "1 yemek kaşığı nişasta",
+            "1 yumurta sarısı",
+            "1 paket vanilya",
+            "3-4 yemek kaşığı sıvı krema (veya yarım paket toz krem şanti)"
+        ]
+    },
+    {
+        "id":"SanSebastian",
+        "tarifName":"San Sebastian",
+        "foto":"resimler/SanSebastian.jpg",
+        "malzemeler":[
+            "800 gram taze peynir (labne veya lor)",
+            "400 ml krema (%35 yağlı, 2 paket)",
+            "1,5 su bardağı toz şeker",
+            "1 paket kaymak (200 gram)",
+            "4 yumurta",
+            "1 yemek kaşığı nişasta",
+            "2 yemek kaşığı un",
+            "1 paket vanilya"
+        ],
+        "Kalıp Ölçüsü":["23 cm kek kalıbı"]
+    },
+    {
+        "id":"ormanMeyveliTurta",
+        "tarifName":"Orman Meyveli Turta",
+        "foto":"resimler/ormanMeyveliTurta.jpg",
+        "sos için":[
+            "3 su bardağı donmuş meyve (vişne veya orman meyvesi karışımı)",
+            "3 yemek kaşığı nişasta",
+            "1 su bardağı su",
+            "1 su bardağı toz şeker",
+            "1 tatlı kaşığı tereyağı"
+        ],
+        "Hamuru için":[
+            "150 gr tereyağı (oda sıcaklığında)",
+            "1 su bardağı toz şeker",
+            "1 yumurta",
+            "1 paket vanilin",
+            "2,5 - 3 su bardağı un"
+        ]
+    },
+    {
+        "id":"KediDili",
+        "tarifName":"Kedi Dili",
+        "foto":"resimler/KediDili.jpg",
+        "Kreması İçin":[
+            "1 su bardağı un",
+            "1 su bardağı toz şeker",
+            "3 yemek kaşığı nişasta",
+            "1 litre süt",
+            "1 paket vanilya",
+            "1 poşet toz krem şanti"
+        ],
+        "üzeri için":[
+            "1 poşet çikolata sosu",
+            "2 su bardağı süt"
+        ]
+    },
+    {
+        "id":"YalancıProfiterol",
+        "tarifName":"Yalancı Profiterol",
+        "foto":"resimler/YalancıProfiterol.jpg",
+        "malzemeler":[
+            "16 adet kedi dili bisküvi",
+            "1 litre süt",
+            "Yarım su bardağı nişasta",
+            "1 su bardağı un",
+            "1 su bardağı toz şeker",
+            "1 poşet krem şanti"
+        ],
+        "Çikolata Sosu İçin":[
+            "2 su bardağı süt",
+            "1 paket toz çikolata sosu"
+        ],
+        "üzeri için":["Fındık (dövülmüş veya iri parçalı)"]
+    },
+    {
+        "id":"ingilizKeki",
+        "tarifName":"ingiliz Keki",
+        "foto":"resimler/ingilizKeki.jpg",
+        "Keki İçin Malzemeler":[
+            "2 adet yumurta",
+            "Yarım su bardağından biraz fazla toz şeker *(yaklaşık 3/4 su bardağı)*",
+            "1 çay bardağı sıvı yağ",
+            "1 çay bardağı süt",
+            "1 limon kabuğu rendesi",
+            "1,5 su bardağı un",
+            "1 paket kabartma tozu"
+        ],
+        "sos için":[
+            "2 yemek kaşığı toz şeker",
+            "1 yemek kaşığı kakao",
+            "1 su bardağı süt"
+        ],
+        "Dışı İçin":[
+            "Hindistan cevizi"
+        ]
+    }
+]
