@@ -2,12 +2,6 @@
 
 Bu proje, HTML, CSS ve JavaScript kullanılarak geliştirilmiş dinamik bir yemek tarifleri web uygulamasıdır. JSON dosyasından veri çekerek tarifleri dinamik olarak listeleyen ve her bir tarifi detaylı şekilde gösteren kullanıcı dostu bir arayüze sahiptir.
 
-## 📸 Ekran Görüntüleri
-
-| Ana Sayfa | Tarif Detayı |
-|----------|--------------|
-| ![Ana Sayfa](resimler/Brownie.jpg) | ![Tarif Detay](resimler/rulo-pasta-tarifi-10.webp) |
-
 ## 🚀 Özellikler
 
 - ✅ Responsive tasarım (mobil ve masaüstü uyumlu)
@@ -26,5 +20,9 @@ Bu proje, HTML, CSS ve JavaScript kullanılarak geliştirilmiş dinamik bir yeme
 - JSON veri dosyası
 - Google Fonts
 
-## 🗂️ Proje Yapısı
+## 🔗 Canlı Uygulama
 
+Projeyi buradan inceleyebilirsiniz:  
+👉 [https://berkay.ct.ws/](https://berkay.ct.ws/)
+
+> (Not: Bu geçici bir bağlantıdır. Domain yakında güncellenecektir.)
